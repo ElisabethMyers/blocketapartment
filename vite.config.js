@@ -5,4 +5,10 @@ export default defineConfig({
     build: {
         minify: "terser",
 },
+    plugins: [],
+    server: {
+        host: true,
+        strictPort: true,
+        port: 3000
+    }
 })
