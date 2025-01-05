@@ -22,7 +22,7 @@ export const textData = {
     "ironingboard": 'Lay all of your love, I mean clothes on me...',
     "grandfatherClock": 'My future ambtitions involve becoming the best developer I can possibly be, and then share and teach knowledge to others.',
     "fireplace": 'I love the winter months, Stockholm is so cosy when it snows...',
-    "sofaWithBook": 'I love Sweden, I studied Swedish for over three years and visit about 3 times a year! My current level is upper-intermediate and I hope to take this to advanced. My native language is English. I am a friendly and sociable person, so I would work in the office more than twice a week!',
+    "sofaWithBook": 'I love Sweden, I have studied Swedish for over three years and visit about 3 times a year! My current level is upper-intermediate and I hope to take this to advanced. My native language is English. I am a friendly and sociable person, so I would work in the office more than twice a week!',
     "teaTable": 'I have quite diverse hobbies - I love to listen, create and play music - I used to compose and produce music for advertisments and studied music technology for several years. I love to read both fiction and non-fiction books (especially those on history), I love to have fika and wine evenings with friends. My favourite band to listen to at the moment is Bon Entendeur, they are the ultimate summer listen. I absolutely LOVE a boardgame although I am terrible at reading the rules!',
     "bath": 'This is really just a bath.',
     "toilet": 'Sanitary items only please, no CVs.',
